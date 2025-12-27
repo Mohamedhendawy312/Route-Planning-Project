@@ -1,5 +1,9 @@
 # A* Route Planning on OpenStreetMap
 
+![C++](https://img.shields.io/badge/C++-17-blue.svg?style=flat&logo=c%2B%2B)
+![CMake](https://img.shields.io/badge/CMake-3.11+-green.svg?style=flat&logo=cmake)
+![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey.svg?style=flat)
+
 A C++ implementation of the A* search algorithm to find the shortest path between two points on real OpenStreetMap data.
 
 <img src="map.png" width="600" height="450" />
